@@ -4,7 +4,7 @@ Durante el ciclo de planificación actual del sistema de gestión de biblioteca,
 
 A continuación, se detalla el estado de cumplimiento de todo el levantamiento técnico:
 
-### ✅ Requisitos Funcionales Logrados
+###  Requisitos Funcionales Logrados
 - [x] **RF1:** Autentificar Usuario al iniciar Sesión
 - [x] **RF2:** Registrar usuario al sistema
 - [x] **RF3:** Gestión de Roles
@@ -19,7 +19,7 @@ A continuación, se detalla el estado de cumplimiento de todo el levantamiento t
 - [x] **RF14:** Auditoría de Movimientos
 - [x] **RF15:** Administración de Usuarios
 
- ⏳ Requisitos Funcionales Postergados (Backlog)
+  Requisitos Funcionales Postergados (Backlog)
 - [ ] **RF8 - Notificaciones Automáticas
 - [ ] **RF13 - Exportación de Reportes
 
